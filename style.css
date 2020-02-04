@@ -1,0 +1,54 @@
+
+.backgroundz {
+background-color: black;
+}
+
+.mymaindiv {
+position: absolute;
+top: 140px;
+float: 50%; 
+float: top: 250px;
+width: 463px; 
+position: absolute; 
+left: 30%;
+padding: 10px;
+background-color: white;
+color: white;
+}
+
+.uppertextbar {
+background: white); 
+color: black;
+font-weight: bold;
+font-size: 16; 
+font-family: sans-serif;
+width: 463px;
+padding: 10px;
+}
+
+.pictureinthemiddle {
+margin-bottom: 5px;
+margin-top: 5px;
+background-color:white;
+width: 463px;
+/* padding: 20px; */
+}
+.pictureinthemiddle img {
+    width: 100%; 
+    height: 100%;
+    }
+
+
+.lowertextbar {
+background: white;
+color: black;
+font-size: 12;
+font-family: sans-serif;
+width: 453px;
+padding: 10px;
+text-align: justify
+}
+
+.alightrightz {
+    float: right
+}
